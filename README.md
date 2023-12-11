@@ -7,7 +7,7 @@ Welcome to our Brand Assets Repository. This repository contains the official ic
 - `/Icons`
     - `/PNG` - Icons in PNG format.
     - `/SVG` - Icons in SVG format.
-  - `/Logos`
+- `/Logos`
     - `/PNG` - Logos in PNG format.
     - `/SVG` - Logos in SVG format.
 
